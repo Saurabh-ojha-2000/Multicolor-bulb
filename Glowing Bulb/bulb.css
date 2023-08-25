@@ -1,0 +1,27 @@
+body{
+    background-image: url("https://img.freepik.com/free-photo/empty-room-gray-wall-room-with-wooden-floor_53876-128781.jpg?w=1600 " );
+    background-repeat: no-repeat;
+    background-size: 1600px 800px;
+}
+.bulb {
+    background: rgb(203, 241, 241);
+    margin: auto;
+    border: 2px solid black;
+    height: 500px;
+    width: 700px;
+    margin-top: 50px;
+    padding-left: 100px;
+    padding-top: 10px;
+}
+
+#bulb_pic{
+    margin-right: 100px;
+}
+p{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 28px;
+    width: 500px;
+    margin: 0px;
+    margin-bottom:3rem !important;
+}
